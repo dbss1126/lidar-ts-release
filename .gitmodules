@@ -1,0 +1,6 @@
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "submodules/eigen"]
+	path = submodules/eigen
+	url = https://gitlab.com/libeigen/eigen.git
