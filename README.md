@@ -3,7 +3,7 @@ Modified by Byoungkwon Yoon and contributors, 2025-2026.
 Changes document the LiDAR-integrated triangle splatting project and setup.
 -->
 
-<h1 align="center">LiDAR-Integrated Coarse-to-Fine Optimization for Geometrically Consistent Triangle Splatting from Mobile Robots</h1>
+<h1 align="center">IROS 2026: LiDAR-Integrated Coarse-to-Fine Optimization for Geometrically Consistent Triangle Splatting from Mobile Robots</h1>
 
 <div align="center">
   <a href="https://purduelamm.github.io/lidar-ts-page/">Project page</a> &nbsp;|&nbsp;
@@ -18,7 +18,7 @@ Byoungkwon Yoon, Hojun Lee, Yuseop Sim, Hangyeom Lee, Dongjun Lee, Martin Byung-
 <br>
 
 
-This repo contains the official implementation for the paper "LiDAR-Integrated Coarse-to-Fine Optimization for Geometrically Consistent Triangle Splatting from Mobile Robots".
+This repo contains the official implementation for the paper "LiDAR-Integrated Coarse-to-Fine Optimization for Geometrically Consistent Triangle Splatting from Mobile Robots" (IROS 2026).
 
 
 ## Installation
